@@ -6,3 +6,6 @@ To predict a whether a user will be able to buy an iphone or not ;-)
 
 the dataset has been taken from :
 https://raw.githubusercontent.com/omairaasim/machine_learning/master/project_11_k_nearest_neighbor/iphone_purchase_records.csv
+you can check out the csv file here 
+
+HAPPY CODING 
